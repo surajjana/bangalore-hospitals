@@ -2,13 +2,13 @@ import re
 import json
 from subprocess import call
 
-fl = open("data.json","a")
+fl = open("data_test.json","a")
 
 fd = open("data_list.json","r")
 json_data = fd.read()
 json_data = json.loads(json_data)
 
-for l in range(0,1348):
+for l in range(200,1347):
 
 	print l
 
@@ -38,10 +38,25 @@ for l in range(0,1348):
 	transplant = facilities[5].split(": ")
 
 	departments = re.findall(r'<ul id="list-specialization">(.*?)</ul>',data,re.DOTALL)
+
+	rxp = re.findall(r'<div class="hospital">(.*?)</div>',data,re.DOTALL)
+	rxp1 = re.findall(r'<li>(.*?)</li>',rxp[0],re.DOTALL)
+
+	email = rxp1[1].split(": ")
+	website = rxp1[2].split(": ")
+	contact = rxp1[3].split(": ")
+	mobile = rxp1[4].split(": ")
+
+	addr = re.findall(r'<u>(.*?)</u>',rxp1[0],re.DOTALL)
+	addr = addr[0].split("\t")
 	
 	if len(departments) == 0:
 		dept_data = '[]'
-		str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}]},'
+		if len(rxp1) == 5:
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":""},'
+		else:
+			fax = rxp1[5].split(": ")
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'"},'
 		# print str_data
 		fl.write(str_data)
 	else:
@@ -55,6 +70,10 @@ for l in range(0,1348):
 			else:
 				dept_data += '{"d_name":"'+departments[m]+'"},'
 
-		str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}]},'
+		if len(rxp1) == 5:
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":""},'
+		else:
+			fax = rxp1[5].split(": ")
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'"},'
 		# print str_data
 		fl.write(str_data)

@@ -12,8 +12,13 @@
 			"Canteen":"",
 			"Cashless Mediclaim":"",
 			"Organ Transplants":""
-		}
-	]
+		}],
+	"address":"",
+	"email":"",
+	"website":"",
+	"contact":"",
+	"mobile":"",
+	"fax":""
 }
 
 38,39,40,42,48,56,92,101,102,105,106,108
