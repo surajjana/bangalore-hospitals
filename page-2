@@ -5,13 +5,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-  <base href="https://www.hospitalkhoj.com/index.php" />
+  <base href="https://www.hospitalkhoj.com/hospitals/bangalore/page-2" />
   <meta name="keywords" content="Hospitals Bangalore, Hospitals " />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="description" content="We provide list of good hospital in Bangalore. List of best hospitals in Bangalore helps in decision" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
   <title>1347 Hospitals in Bangalore</title>
-  <link href="https://www.hospitalkhoj.com/hospitals/bangalore" rel="canonical" />
+  <link href="https://www.hospitalkhoj.com/yfx" rel="shortlink" />
   <link href="/templates/yoo_peak/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
   <link rel="stylesheet" href="https://www.hospitalkhoj.com/components/com_directory/assets/css/listing.css" type="text/css" />
   <link rel="stylesheet" href="https://www.hospitalkhoj.com/components/com_directory/assets/css/jBox.css" type="text/css" />
@@ -2274,546 +2274,6 @@ jq("#submit_data").click(function(){
 		<li  >
 			<div>
 				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Apollo Hospital - Bangalore" title="Apollo Hospital - Bangalore" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/apollo-hospital-bangalore');">
-						Apollo Hospital - Bangalore					</a>
-										</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2302,'/hospitals/bangalore/apollo-hospital-bangalore');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2302','/hospitals/bangalore/apollo-hospital-bangalore?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/apollo-hospital-bangalore/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/apollo-hospital-bangalore/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2302">
-					<b>396</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="NIMHANS" title="NIMHANS" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/nimhans');">
-						NIMHANS					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2,'/hospitals/bangalore/nimhans');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2','/hospitals/bangalore/nimhans?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/nimhans/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/nimhans/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2">
-					<b>550</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Abhaya Hospital" title="Abhaya Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/abhaya-hospital');">
-						Abhaya Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2280,'/hospitals/bangalore/abhaya-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2280','/hospitals/bangalore/abhaya-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/abhaya-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/abhaya-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2280">
-					<b>262</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Spandana Institute of Mental Health" title="Spandana Institute of Mental Health" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/spandana-institute-of-mental-health');">
-						Spandana Institute of Mental Health					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(15601,'/hospitals/bangalore/spandana-institute-of-mental-health');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('15601','/hospitals/bangalore/spandana-institute-of-mental-health?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/spandana-institute-of-mental-health/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/spandana-institute-of-mental-health/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_15601">
-					<b>151</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Chinmaya Mission Hospital" title="Chinmaya Mission Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/chinmaya-mission-hospital');">
-						Chinmaya Mission Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2360,'/hospitals/bangalore/chinmaya-mission-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2360','/hospitals/bangalore/chinmaya-mission-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/chinmaya-mission-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/chinmaya-mission-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2360">
-					<b>584</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Bangalore Baptist Hospital" title="Bangalore Baptist Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/bangalore-baptist-hospital');">
-						Bangalore Baptist Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2323,'/hospitals/bangalore/bangalore-baptist-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2323','/hospitals/bangalore/bangalore-baptist-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/bangalore-baptist-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/bangalore-baptist-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2323">
-					<b>505</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="BGS Global Hospital" title="BGS Global Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/bgs-global-hospital');">
-						BGS Global Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2338,'/hospitals/bangalore/bgs-global-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2338','/hospitals/bangalore/bgs-global-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/bgs-global-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/bgs-global-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2338">
-					<b>432</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Vydehi Hospital" title="Vydehi Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/vydehi-hospital');">
-						Vydehi Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2820,'/hospitals/bangalore/vydehi-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2820','/hospitals/bangalore/vydehi-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/vydehi-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/vydehi-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2820">
-					<b>337</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Agadi Hospital" title="Agadi Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/agadi-hospital');">
-						Agadi Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2290,'/hospitals/bangalore/agadi-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2290','/hospitals/bangalore/agadi-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/agadi-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/agadi-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2290">
-					<b>177</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="AV Hospital - Bangalore" title="AV Hospital - Bangalore" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/av-hospital-bangalore');">
-						AV Hospital - Bangalore					</a>
-										</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2320,'/hospitals/bangalore/av-hospital-bangalore');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2320','/hospitals/bangalore/av-hospital-bangalore?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/av-hospital-bangalore/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/av-hospital-bangalore/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2320">
-					<b>226</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="St Johns Medical College Hospital" title="St Johns Medical College Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/st-johns-medical-college-hospital');">
-						St Johns Medical College Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2745,'/hospitals/bangalore/st-johns-medical-college-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2745','/hospitals/bangalore/st-johns-medical-college-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/st-johns-medical-college-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/st-johns-medical-college-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2745">
-					<b>101</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Divine Speciality Hospital" title="Divine Speciality Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/divine-speciality-hospital');">
-						Divine Speciality Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2391,'/hospitals/bangalore/divine-speciality-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2391','/hospitals/bangalore/divine-speciality-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/divine-speciality-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/divine-speciality-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2391">
-					<b>165</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Fortis Hospital - Bangalore" title="Fortis Hospital - Bangalore" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/fortis-hospital-bangalore');">
-						Fortis Hospital - Bangalore					</a>
-										</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2425,'/hospitals/bangalore/fortis-hospital-bangalore');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2425','/hospitals/bangalore/fortis-hospital-bangalore?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/fortis-hospital-bangalore/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/fortis-hospital-bangalore/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2425">
-					<b>204</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Gurushree HiTec Multi Speciality Hospital" title="Gurushree HiTec Multi Speciality Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/gurushree-hitec-multi-speciality-hospital');">
-						Gurushree HiTec Multi Speciality Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2441,'/hospitals/bangalore/gurushree-hitec-multi-speciality-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2441','/hospitals/bangalore/gurushree-hitec-multi-speciality-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/gurushree-hitec-multi-speciality-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/gurushree-hitec-multi-speciality-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2441">
-					<b>77</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
-					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Manipal Hospital" title="Manipal Hospital" class="lazyme">
-				</div>
-				
-				<div class="cl-list-name">
-					<a style="cursor:pointer;" href='/hospitals/bangalore/manipal-hospital');">
-						Manipal Hospital					</a>
-						, <small>Bangalore</small>				</div>
-
-				<div class="cl-list-info">
-														</div>
-
-								<div class="cl-list-rt">
-				<!--	<a style="cursor:pointer;" onclick="updatehits(2532,'/hospitals/bangalore/manipal-hospital');">
-						<i class="fa fa-eye"></i> Details					</a>	-->
-					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2532','/hospitals/bangalore/manipal-hospital?format=pdf');" >
-						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
-					<a href="/hospitals/bangalore/manipal-hospital/reviews">
-						<i class="fa fa-comment-o"></i> Reviews					</a>
-					<a href="/hospitals/bangalore/manipal-hospital/qnas">
-						<i class="fa fa-question"></i> Q&As					</a>
-				</div>
-				<span class="catItemHits" id="views_2532">
-					<b>151</b> Views				</span>
-				
-				<!-- Item Rating -->
-				<span class="catItemRatingBlock">
-					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
-				</span>
-				<div class="clearfix" style="margin-bottom:10px;"></div>
-			</div>
-		</li>
-
-			
-		<li  >
-			<div>
-				<div class="cl-list-img" >
 					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Novamed Centers India Private Limited" title="Novamed Centers India Private Limited" class="lazyme">
 				</div>
 				
@@ -2990,9 +2450,369 @@ jq("#submit_data").click(function(){
 			</div>
 		</li>
 
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Columbia Asia Medical Center" title="Columbia Asia Medical Center" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/columbia-asia-medical-center');">
+						Columbia Asia Medical Center					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2375,'/hospitals/bangalore/columbia-asia-medical-center');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2375','/hospitals/bangalore/columbia-asia-medical-center?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/columbia-asia-medical-center/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/columbia-asia-medical-center/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2375">
+					<b>149</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Divyadrishti Eye Hospital" title="Divyadrishti Eye Hospital" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/divyadrishti-eye-hospital');">
+						Divyadrishti Eye Hospital					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2392,'/hospitals/bangalore/divyadrishti-eye-hospital');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2392','/hospitals/bangalore/divyadrishti-eye-hospital?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/divyadrishti-eye-hospital/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/divyadrishti-eye-hospital/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2392">
+					<b>47</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Hitech Kidney Stone Hospital - Bangalore" title="Hitech Kidney Stone Hospital - Bangalore" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/hitech-kidney-stone-hospital-bangalore');">
+						Hitech Kidney Stone Hospital - Bangalore					</a>
+										</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2448,'/hospitals/bangalore/hitech-kidney-stone-hospital-bangalore');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2448','/hospitals/bangalore/hitech-kidney-stone-hospital-bangalore?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/hitech-kidney-stone-hospital-bangalore/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/hitech-kidney-stone-hospital-bangalore/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2448">
+					<b>52</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Leela Hospital and Diagnostic Centre" title="Leela Hospital and Diagnostic Centre" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/leela-hospital-and-diagnostic-centre');">
+						Leela Hospital and Diagnostic Centre					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2507,'/hospitals/bangalore/leela-hospital-and-diagnostic-centre');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2507','/hospitals/bangalore/leela-hospital-and-diagnostic-centre?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/leela-hospital-and-diagnostic-centre/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/leela-hospital-and-diagnostic-centre/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2507">
+					<b>65</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Maiya Multispeciality Hospital" title="Maiya Multispeciality Hospital" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/maiya-multispeciality-hospital');">
+						Maiya Multispeciality Hospital					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2519,'/hospitals/bangalore/maiya-multispeciality-hospital');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2519','/hospitals/bangalore/maiya-multispeciality-hospital?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/maiya-multispeciality-hospital/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/maiya-multispeciality-hospital/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2519">
+					<b>140</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Mallige Medical Centre" title="Mallige Medical Centre" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/mallige-medical-centre');">
+						Mallige Medical Centre					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2520,'/hospitals/bangalore/mallige-medical-centre');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2520','/hospitals/bangalore/mallige-medical-centre?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/mallige-medical-centre/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/mallige-medical-centre/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2520">
+					<b>55</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Meridian Medical Centre" title="Meridian Medical Centre" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/meridian-medical-centre');">
+						Meridian Medical Centre					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2549,'/hospitals/bangalore/meridian-medical-centre');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2549','/hospitals/bangalore/meridian-medical-centre?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/meridian-medical-centre/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/meridian-medical-centre/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2549">
+					<b>85</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Narayana Hrudayalaya" title="Narayana Hrudayalaya" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/narayana-hrudayalaya');">
+						Narayana Hrudayalaya					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2567,'/hospitals/bangalore/narayana-hrudayalaya');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2567','/hospitals/bangalore/narayana-hrudayalaya?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/narayana-hrudayalaya/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/narayana-hrudayalaya/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2567">
+					<b>121</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="Neha Prakash Hospital" title="Neha Prakash Hospital" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/neha-prakash-hospital');">
+						Neha Prakash Hospital					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2573,'/hospitals/bangalore/neha-prakash-hospital');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2573','/hospitals/bangalore/neha-prakash-hospital?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/neha-prakash-hospital/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/neha-prakash-hospital/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2573">
+					<b>47</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
+			
+		<li  >
+			<div>
+				<div class="cl-list-img" >
+					<img src="https://www.hospitalkhoj.com/media/com_directory/images/resized/images/default_hospital_100_75.jpg" alt="North Side Hospital Diagnostic Centre" title="North Side Hospital Diagnostic Centre" class="lazyme">
+				</div>
+				
+				<div class="cl-list-name">
+					<a style="cursor:pointer;" href='/hospitals/bangalore/north-side-hospital-diagnostic-centre');">
+						North Side Hospital Diagnostic Centre					</a>
+						, <small>Bangalore</small>				</div>
+
+				<div class="cl-list-info">
+														</div>
+
+								<div class="cl-list-rt">
+				<!--	<a style="cursor:pointer;" onclick="updatehits(2582,'/hospitals/bangalore/north-side-hospital-diagnostic-centre');">
+						<i class="fa fa-eye"></i> Details					</a>	-->
+					<a id="dwnldBrochure" href="javascript:void(0);" onclick="dwnldBrochure('2582','/hospitals/bangalore/north-side-hospital-diagnostic-centre?format=pdf');" >
+						<i class="fa fa-file-pdf-o"></i> E-Brochure					</a>
+					<a href="/hospitals/bangalore/north-side-hospital-diagnostic-centre/reviews">
+						<i class="fa fa-comment-o"></i> Reviews					</a>
+					<a href="/hospitals/bangalore/north-side-hospital-diagnostic-centre/qnas">
+						<i class="fa fa-question"></i> Q&As					</a>
+				</div>
+				<span class="catItemHits" id="views_2582">
+					<b>44</b> Views				</span>
+				
+				<!-- Item Rating -->
+				<span class="catItemRatingBlock">
+					<i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>									
+				</span>
+				<div class="clearfix" style="margin-bottom:10px;"></div>
+			</div>
+		</li>
+
 		</ul>
 
-	<ul><li class="pagination-start"><span class="pagenav">Start</span></li><li class="pagination-prev"><span class="pagenav">Prev</span></li><li><span class="pagenav">1</span></li><li><a href="/hospitals/bangalore/page-2" class="pagenav">2</a></li><li><a href="/hospitals/bangalore/page-3" class="pagenav">3</a></li><li><a href="/hospitals/bangalore/page-4" class="pagenav">4</a></li><li><a href="/hospitals/bangalore/page-5" class="pagenav">5</a></li><li><a href="/hospitals/bangalore/page-6" class="pagenav">6</a></li><li><a href="/hospitals/bangalore/page-7" class="pagenav">7</a></li><li><a href="/hospitals/bangalore/page-8" class="pagenav">8</a></li><li><a href="/hospitals/bangalore/page-9" class="pagenav">9</a></li><li><a href="/hospitals/bangalore/page-10" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/hospitals/bangalore/page-2" class="hasTooltip pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/hospitals/bangalore/page-68" class="hasTooltip pagenav">End</a></li></ul><input type="hidden" name="e208ea4632c29eb902f2894a6367f999" value="1" />	
+	<ul><li class="pagination-start"><a title="Start" href="/hospitals/bangalore" class="hasTooltip pagenav">Start</a></li><li class="pagination-prev"><a title="Prev" href="/hospitals/bangalore" class="hasTooltip pagenav">Prev</a></li><li><a href="/hospitals/bangalore" class="pagenav">1</a></li><li><span class="pagenav">2</span></li><li><a href="/hospitals/bangalore/page-3" class="pagenav">3</a></li><li><a href="/hospitals/bangalore/page-4" class="pagenav">4</a></li><li><a href="/hospitals/bangalore/page-5" class="pagenav">5</a></li><li><a href="/hospitals/bangalore/page-6" class="pagenav">6</a></li><li><a href="/hospitals/bangalore/page-7" class="pagenav">7</a></li><li><a href="/hospitals/bangalore/page-8" class="pagenav">8</a></li><li><a href="/hospitals/bangalore/page-9" class="pagenav">9</a></li><li><a href="/hospitals/bangalore/page-10" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/hospitals/bangalore/page-3" class="hasTooltip pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/hospitals/bangalore/page-90" class="hasTooltip pagenav">End</a></li></ul><input type="hidden" name="2d0399976701516e155e3175399b7413" value="1" />	
 	<h2>Top hospitals in Bangalore</h2><p><p>All kinds of specializations are going around in these hospitals.  There are many clinics in <span style="font-size: 12.16px; line-height: 15.808px;">Bangalore</span>. Nowadays, many health care hospitals in <span style="font-size: 12.16px; line-height: 15.808px;">Bangalore</span> are being established day by day.  There are good doctors in these hospitals in <span style="font-size: 12.16px; line-height: 15.808px;">Bangalore</span>, to give high quality treatment. On this page you can see hospital list in <span style="font-size: 12.16px; line-height: 15.808px;">Bangalore</span>.</p></p></form>
 <div class="clearfix"></div>
 
@@ -3021,7 +2841,7 @@ jq("#submit_data").click(function(){
 	</div>
 <input type="hidden" id="user-id" value="" />
 <input type="hidden" id="answer-rel" value="" />
-<script defer="defer" type="text/javascript"> var collegeids = new Array(2302,2,2280,15601,2360,2323,2338,2820,2290,2320,2745,2391,2425,2441,2532,2583,2747,2825,2295,2325);
+<script defer="defer" type="text/javascript"> var collegeids = new Array(2583,2747,2825,2295,2325,2375,2392,2448,2507,2519,2520,2549,2567,2573,2582);
 	jQuery.ajax(
 		{
 			url: "https://www.hospitalkhoj.com/index.php?option=com_directory&task=listings.ajaxGetCounts&colleges="+collegeids,
@@ -3403,8 +3223,8 @@ function dwnldBrochure(listing_id,brochurelink){
 
 	
 		<div class="uk-form-row">
-				<label for="modlgn-remember-989321481">Remember Me</label>
-		<input id="modlgn-remember-989321481" type="checkbox" name="remember" value="yes" checked>
+				<label for="modlgn-remember-81558875">Remember Me</label>
+		<input id="modlgn-remember-81558875" type="checkbox" name="remember" value="yes" checked>
 	</div>
 		
 	<div class="uk-form-row">
@@ -3420,8 +3240,8 @@ function dwnldBrochure(listing_id,brochurelink){
 		
 	<input type="hidden" name="option" value="com_users">
 	<input type="hidden" name="task" value="user.login">
-	<input type="hidden" name="return" value="aHR0cHM6Ly93d3cuaG9zcGl0YWxraG9qLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9kaXJlY3Rvcnkmdmlldz1saXN0aW5ncyZjaXR5X2lkPTQw">
-	<input type="hidden" name="e208ea4632c29eb902f2894a6367f999" value="1" /></form>
+	<input type="hidden" name="return" value="aHR0cHM6Ly93d3cuaG9zcGl0YWxraG9qLmNvbS9ob3NwaXRhbHMvYmFuZ2Fsb3JlL3BhZ2UtMg==">
+	<input type="hidden" name="2d0399976701516e155e3175399b7413" value="1" /></form>
 </div>
 <div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Latest Articles By you</h3>
 <ul class="uk-list uk-list-line">
@@ -3739,7 +3559,7 @@ function dwnldBrochure(listing_id,brochurelink){
 
 <!-- // Override Start -->
 <link rel="stylesheet" href="https://www.hospitalkhoj.com/templates/yoo_peak/fonts/font-awesome/css/font-awesome.min.css">
-<meta property="og:url" content="https://www.hospitalkhoj.com/index.php?option=com_directory&view=listings&city_id=40" />
+<meta property="og:url" content="https://www.hospitalkhoj.com/hospitals/bangalore/page-2" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="HospitalKhoj.com"/>
 <meta property="og:image" content="https://www.hospitalkhoj.com/images/logo-hospital_khoj.png" />

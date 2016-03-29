@@ -10,7 +10,7 @@ fd = open("data1.json", "a")
 # 	print j
 # 	call("curl 'http://hospitalkhoj.com/index.php?option=com_directory&view=listings&city_id=40' > test1.html", shell=True)
 
-fo = open("test2.html", "r")
+fo = open("test1.html", "r")
 data = fo.read()
 
 for i in range(1,16):
@@ -23,9 +23,11 @@ for i in range(1,16):
 	#print rxp3
 	res_val = rxp3[0].split("\t")
 
+	rxp4 = re.findall(r'href='+str("\'")+'(.*?)'+"\'",rxp2[0],re.DOTALL)
+
 	# print i,". ",res_val[6]
 	#json_data += '{"name":"'+res_val[6]+'"},'
-	fd.write('{"name":"'+res_val[6]+'"},')
+	fd.write('{"name":"'+res_val[6]+'","url":"https://www.hospitalkhoj.com'+rxp4[0]+'"},')
 
 #json_data += ']}'
 fd.close()
