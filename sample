@@ -1,0 +1,19 @@
+{
+	"id":0,
+	"name":"",
+	"departments":[{"d_name":""}],
+	"category":"",
+	"type":"",
+	"facilities":[
+		{
+			"Ambulance":"",
+			"Lab Attached":"",
+			"Pharmacy Attached":"",
+			"Canteen":"",
+			"Cashless Mediclaim":"",
+			"Organ Transplants":""
+		}
+	]
+}
+
+38,39,40,42,48,56,92,101,102,105,106,108
