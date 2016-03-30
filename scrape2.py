@@ -1,14 +1,15 @@
 import re
 import json
 from subprocess import call
+import time
 
-fl = open("data_test.json","a")
+fl = open("data_final.json","a")
 
 fd = open("data_list.json","r")
 json_data = fd.read()
 json_data = json.loads(json_data)
 
-for l in range(200,1347):
+for l in range(1343,1347):
 
 	print l
 
@@ -49,14 +50,37 @@ for l in range(200,1347):
 
 	addr = re.findall(r'<u>(.*?)</u>',rxp1[0],re.DOTALL)
 	addr = addr[0].split("\t")
+
+	api = 'http://maps.google.com/maps/api/geocode/json?address='
+
+	addr_l = addr[8]
+	addr_l = addr_l.replace(" ", "+")
+
+	api_url = api+addr_l+'&sensor=false'
+
+	# time.sleep(1)
+
+	call('curl "'+api_url+'" > test_1.json',shell=True)
+
+	fo = open("test_1.json","r")
+	data_l = fo.read()
+
+	json_data_l = json.loads(data_l)
+
+	if json_data_l["status"] == "OK":
+		lat = json_data_l["results"][0]["geometry"]["location"]["lat"]
+		lng = json_data_l["results"][0]["geometry"]["location"]["lng"]
+	else:
+		lat = 0.00
+		lng = 0.00
 	
 	if len(departments) == 0:
 		dept_data = '[]'
 		if len(rxp1) == 5:
-			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":""},'
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"","location":[{"lat":'+str(lat)+',"lng":'+str(lng)+'}]},'
 		else:
 			fax = rxp1[5].split(": ")
-			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'"},'
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'","location":[{"lat":'+str(lat)+',"lng":'+str(lng)+'}]},'
 		# print str_data
 		fl.write(str_data)
 	else:
@@ -71,9 +95,9 @@ for l in range(200,1347):
 				dept_data += '{"d_name":"'+departments[m]+'"},'
 
 		if len(rxp1) == 5:
-			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":""},'
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"","location":[{"lat":'+str(lat)+',"lng":'+str(lng)+'}]},'
 		else:
 			fax = rxp1[5].split(": ")
-			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'"},'
+			str_data = '{"id":'+str(l+1)+',"name":"'+json_data["hospital_names"][l]["name"]+'","departments":'+dept_data+',"category":"'+category[0]+'","type":"'+h_type[0]+'","facilities":[{"Ambulance":"'+ambulance[1]+'","Lab Attached":"'+lab_attached[1]+'","Pharmacy Attached":"'+pharmacy[1]+'","Canteen":"'+canteen[1]+'","Cashless Mediclaim":"'+mediclaim[1]+'","Organ Transplants":"'+transplant[1]+'"}],"address":"'+addr[8]+'","email":"'+email[1]+'","website":"'+website[1]+'","contact":"'+contact[1]+'","mobile":"'+mobile[1]+'","fax":"'+fax[1]+'","location":[{"lat":'+str(lat)+',"lng":'+str(lng)+'}]},'
 		# print str_data
 		fl.write(str_data)
